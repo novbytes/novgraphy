@@ -19,6 +19,7 @@ Simple kok gak ribet salin dan copy cmd dibawah ini
 1. `python` 3.7 keatas
 2. `git`
 
+### Installasi
 - `windows`
   ```powershell
   git clone && python run.py
